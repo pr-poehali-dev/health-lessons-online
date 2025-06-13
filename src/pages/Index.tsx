@@ -55,11 +55,11 @@ const Index = () => {
       <section className="bg-gradient-to-br from-purple-600 via-purple-700 to-indigo-800 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Твой путь к здоровой жизни
+            Два крыла успеха: Тело и разум
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-purple-100 max-w-3xl mx-auto">
-            Изучай основы здорового образа жизни через интерактивные уроки,
-            созданные специально для подростков
+            Гармоничное развитие физического и ментального здоровья через
+            интерактивные уроки для подростков
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
